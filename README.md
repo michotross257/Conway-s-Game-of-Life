@@ -18,7 +18,7 @@ Python implementation of Conway's Game of Life. My final assignment from the cla
 ```
 $ python game_of_life.py
 How many generations would you like to simulate?
-Please enter a number (min: 1; max: 15) and then press [ENTER]: 3
+Please enter an integer (min: 1; max: 15) and then press [ENTER]: 3
 ```
 
 ```
